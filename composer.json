@@ -1,0 +1,13 @@
+{
+    "name": "isuvorov/gdocs",
+    "description": "PHP Parser for New Google Spreadsheets",
+    "authors": [
+        {
+            "name": "isuvorov",
+            "email": "me@isuvorov.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}

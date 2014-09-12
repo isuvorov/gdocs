@@ -9,8 +9,6 @@
 require_once __DIR__ . '/gdocs.php';
 
 $doc = new GDocs($url);
-var_dump($doc->getTable()->getParsed());
-exit;
 var_dump($doc->getTable()->getAssoc());
 var_dump($doc->getTable()->getRaw());
 //
